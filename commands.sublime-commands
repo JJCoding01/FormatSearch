@@ -1,0 +1,8 @@
+[
+{"caption": "FormatSearch: Search vault for drawings", "command": "drawing"},
+{"caption": "FormatSearch: Search vault for parts", "command": "part"},
+{"caption": "FormatSearch: Search vault for assemblies", "command": "assembly"},
+{"caption": "FormatSearch: Search vault for all (plain)", "command": "plain"},
+{"caption": "FormatSearch: Search TCM with list", "command": "tcm"},
+{"caption": "FormatSearch: Comma seperated list", "command": "comma"}
+]

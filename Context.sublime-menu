@@ -1,0 +1,33 @@
+[
+{
+    "id" : "formatsearch",
+    "caption": "Format Seach",
+    "children":
+    [
+    {
+        "caption" : "Drawing",
+        "command" : "drawing"
+    },
+    {
+        "caption" : "Part",
+        "command" : "part"
+    },
+    {
+        "caption" : "Assembly",
+        "command" : "assembly"
+    },
+    {
+        "caption" : "TCM",
+        "command" : "tcm"
+    },
+    {
+        "caption" : "Plain",
+        "command" : "plain"
+    },
+    {
+        "caption" : "Comma",
+        "command" : "comma"
+    },
+    ]
+}
+]
