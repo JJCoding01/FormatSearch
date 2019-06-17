@@ -18,6 +18,7 @@ There are five different search formats that are created. These five are
  - **Assembly** space delimited list with *.SLDASM* suffix to every part number
  - **TCM** comma delimited list with each part number in double quotes
  - **Plain:** no changes, simple space delimited list of raw part numbers
+ - **Comma:** comma seperated list
 
 ## Usage
 The search formats are listed under context menu under the menu *Format Search*, as well as in the command palette. To use the command palette, search for *FormatSearch:* and you will be presented with the different formatting options.
@@ -40,6 +41,7 @@ Activating the different formats will give the following results
  - **Assembly:** `123452.SLDASM 239084.SLDASM 029382.SLDASM`
  - **TCM:** `"123452", "239084", "029382"`
  - **Plain:** `123452 239084 029382`
+ - **Comma:** `123452, 239084, 029382`
 
 ## License
 MIT license.
